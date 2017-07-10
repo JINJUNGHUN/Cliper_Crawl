@@ -16,7 +16,7 @@ def crawling5():
 def Jay():
     return 'Hello Jay'
 def Areum():
-    return 'Hi'
+    return 'Hello I am Areum'
 
 
 print cliper()
