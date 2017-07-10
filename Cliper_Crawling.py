@@ -18,7 +18,7 @@ def Jay():
 def Areum():
     return 'Hello I am Areum'
 def louis():
-    return 'Hello I am louis'
+    return 'Hello I am Louis'
 
 
 print cliper()
