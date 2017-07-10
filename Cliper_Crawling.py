@@ -11,5 +11,12 @@ def crawling3():
     return 'Cliper Crawling'
 print cliper()
 print crawling()
+print cliper()
+print crawling()
+print cliper()
+print crawling()
+print cliper()
+print crawling()
+
 
 
