@@ -15,5 +15,6 @@ def crawling5():
     return 'Cliper Crawling'
 print cliper()
 print crawling()
-
+print cliper()
+print crawling()
 
