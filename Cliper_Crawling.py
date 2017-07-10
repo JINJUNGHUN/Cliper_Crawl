@@ -5,8 +5,9 @@ def cliper():
 
 def crawling():
     return 'Cliper Crawling'
-def crawling2():
-    return 'Cliper Crawling'
+
+오키오키
+jhjhjh
 print cliper()
 print crawling()
 
